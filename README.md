@@ -10,6 +10,18 @@ I enjoy taking projects from data exploration and experimentation to model devel
 - 🛠️ Working with Python, PyTorch, TensorFlow, scikit-learn, and FastAPI
 - 🌱 Always learning, experimenting, and building
 
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/neelesh-kumar-a7670630b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:neelesh11204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -53,10 +65,8 @@ I enjoy taking projects from data exploration and experimentation to model devel
 
 
 🎯 Current Focus
-- Strengthening Data Structures and Algorithms
 - Building practical machine-learning and data-science projects
 - Exploring NLP and efficient deep-learning techniques
-- Improving software engineering and deployment skills
 - Learning through collaboration and open-source projects
 
 
