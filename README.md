@@ -51,3 +51,14 @@ I enjoy taking projects from data exploration and experimentation to model devel
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+
+🎯 Current Focus
+- Strengthening Data Structures and Algorithms
+- Building practical machine-learning and data-science projects
+- Exploring NLP and efficient deep-learning techniques
+- Improving software engineering and deployment skills
+- Learning through collaboration and open-source projects
+
+
+<div align="center">“Learning continuously, building thoughtfully, and turning ideas into working solutions.”
+
