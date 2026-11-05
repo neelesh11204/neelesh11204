@@ -11,7 +11,7 @@ I enjoy taking projects from data exploration and experimentation to model devel
 - 🌱 Always learning, experimenting, and building
 
 
-## 🌐 Connect With Me
+## 🌐 Social
 
 <p align="left">
   <a href="https://www.linkedin.com/in/neelesh-kumar-a7670630b">
