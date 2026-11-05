@@ -62,6 +62,18 @@ I enjoy taking projects from data exploration and experimentation to model devel
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelesh11204&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh11204&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neelesh11204&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 🎯 Current Focus
 - Building practical machine-learning and data-science projects
 - Exploring NLP and efficient deep-learning techniques
